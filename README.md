@@ -8,3 +8,5 @@ In this project, Han Chen worked on improvement, using Navie Bayes, Random fores
 Also, Han chen generated all the figures, using Google Map API.
 
 Borui built original model.
+
+Here is the link to Han Chen's repo: https://github.com/hchen66/TIM245
