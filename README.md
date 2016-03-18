@@ -7,4 +7,4 @@ please unzip all the csv before run the program.
 In this project, Han Chen worked on improvement, using Navie Bayes, Random forest, logistic regression and SVM.
 Also, Han chen generated all the figures, using Google Map API.
 
-Borui built orignal model.
+Borui built original model.
